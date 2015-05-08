@@ -14,7 +14,7 @@ class Canvas
         void draw();
     protected:
     private:
-        Shape* graphs[MAX_NUM];
+        Shape* shapes[MAX_NUM];
         int num;
 };
 
