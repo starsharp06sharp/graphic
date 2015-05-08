@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1199121211 source:C:\Users\zl\Documents\GitHub\graphic\main.cpp
+	<iostream>
+	"Circle.h"
+	"Canvas.h"
+	"Rectangle.h"
+
+1199117406 C:\Users\zl\Documents\GitHub\graphic\include\point.h
+
+1199120783 C:\Users\zl\Documents\GitHub\graphic\include\circle.h
+	"Point.h"
+	"Shape.h"
+
+1199120651 source:C:\Users\zl\Documents\GitHub\graphic\src\circle.cpp
+	<iostream>
+	"Circle.h"
+
+1199118138 source:C:\Users\zl\Documents\GitHub\graphic\src\point.cpp
+	"Point.h"
+
+1199120798 C:\Users\zl\Documents\GitHub\graphic\include\canvas.h
+	"Circle.h"
+	"Shape.h"
+
+1199120612 source:C:\Users\zl\Documents\GitHub\graphic\src\canvas.cpp
+	"Canvas.h"
+
+1199120735 C:\Users\zl\Documents\GitHub\graphic\include\shape.h
+
+1199120743 source:C:\Users\zl\Documents\GitHub\graphic\src\shape.cpp
+	"Shape.h"
+
+1199121236 C:\Users\zl\Documents\GitHub\graphic\include\rectangle.h
+	"Shape.h"
+
